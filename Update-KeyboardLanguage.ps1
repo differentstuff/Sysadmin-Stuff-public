@@ -38,7 +38,7 @@
 
 .NOTES
     File Name      : Update-KeyboardLanguage.ps1
-    Author         : Jean-Marie Heck (differentstuff)
+    Author         : Jean-Marie Heck (hecjex)
     Prerequisite   : Administrative privileges
     Version        : 1.0
     Last Modified  : 07.02.2025
